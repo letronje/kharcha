@@ -1,0 +1,122 @@
+Manoj = M
+Vishal = V
+Sanjay = S
+Anil = A
+Srikanth = SK
+
+X, M, internet_bill, 200, M, V
+X, M, internet_bill, 200, M, A
+X, M, internet_bill, 200, M, S
+X, M, internet_bill, 400, M, SK
+
+01/04/09, M, veg, 14, M, V, A, SK
+01/04/09, M, chapati, 16, M, A
+01/04/09, V, chapati, 32, V, SK, M
+
+02/04/09, M, chapati, 32, M, A, V
+02/04/09, A, chicken, 60, M, A
+
+05/04/2009, SK, dk_lunch, 163, M, SK, V
+05/04/2009, SK, mastani, 75, M, V, SK
+05/04/2009, M, idlicious_breakfast, 40, M, V
+
+05/04/2009, SK, sugarcane_juice, 28, M, SK
+05/04/2009, SK, sugarcane_juice, 14, V, SK
+05/04/2009, SK, mastani_dinner, 66, M, V, SK
+
+06/04/2009, M, chapati, 28, M, SK, A
+06/04/2009, V, chapati, 8, M, V
+06/04/2009, M, dal, 35, M, SK, A, V
+06/04/2009, M, eggs, 18, M, SK, A, V
+06/04/2009, M, veg, 5, M, SK, A, V
+
+08/04/2009, M, chapati, 40, M, SK, A, V
+08/04/2009, M, veg, 10, M, V, A, SK
+08/04/2009, M, rice, 32, M, SK, A, V
+
+13/04/2009, V, eggs, 18, M, V, SK
+13/04/2009, V, chapati, 32, M, V, SK
+13/04/2009, SK, mastani, 68, M, V, SK
+
+14/04/2009, V, chapati, 40, M, V, SK, A
+14/04/2009, SK, veg, 32, M, V, SK, A
+14/04/2009, M, fish, 78, M, V, A
+
+15/04/2009, M, idlicious_curdrice, 100, M, V, A, S
+15/04/2009, M, milk, 22, M, V
+
+16/04/2009, V, matki, 13, M, V, A, SK
+16/04/2009, M, chapati, 44, M, V, A, SK
+16/04/2009, M, eggs, 18, M, V, A, SK
+16/04/2009, M, sugarcane_juice, 21, M, V, A, SK
+
+17/04/2009, M, chapati, 36, M, A, SK
+17/04/2009, A, fish, 113, M, A
+17/04/2009, A, veg, 8, M, A, SK
+
+18/04/2009, V, idlicious, 96, V, SK
+18/04/2009, V, idlicious, 126, V, M
+18/04/2009, M, nimbooz, 30, SK, M
+18/04/2009, SK, tea, 26, SK, A, V
+18/04/2009, M, sugar, 36, SK, A, V, M
+18/04/2009, SK, mastani, 50, SK, M
+
+18/04/2009, V, noodles_milk, 69.5, V, SK
+18/04/2009, V, phenyl, 35
+18/04/2009, V, bathroom_scrubber, 20
+18/04/2009, SK, lunch, 100, SK, A, V
+18/04/2009, A, lunch, 25, SK, A, V
+18/04/2009, A, dinner, 120, SK, A, V
+18/04/2009, A, dinner_chicken, 60, A, V
+
+20/04/2009, V, chapati, 32, A, V, SK
+20/04/2009, A, dal, 30, A, V, SK
+20/04/2009, V, rice, 38, A, V, SK, M
+
+21/04/2009, V, eggs, 18, A, V, SK, M
+21/04/2009, V, milk, 22, V, SK
+21/04/2009, M, chapati, 40, M, V, SK, A
+21/04/2009, M, dal, 35, M, V, SK, A
+
+22/04/2009, A, dal, 30, A, V, SK
+
+23/04/2009, V, chapati, 36, A, V, SK, M
+23/04/2009, V, veg, 20, A, V, SK, M
+
+25/04/09, V, paper_bill, 90
+25/04/09, A, dk_prince_dinner, 100, A, M, SK, V
+25/04/09, A, lunch_prince, 98, A, SK, V
+25/04/09, SK, dk_prince_dinner, 30, A, M, SK, V
+25/04/09, V, dk_prince_dinner, 50, A, M, SK, V
+25/04/09, SK, mastani, 95, A, M, SK, V
+25/04/09, V, water_bottle, 22, A, SK, V
+25/04/09, V, milk, 22, SK, V
+
+26/04/2009, V, maid_april, 380
+26/04/2009, SK, dinner, 74, SK, V
+26/04/2009, SK, rice, 32, SK, V, A, M
+26/04/2009, SK, eggs, 18, SK, V, M
+26/04/2009, SK, jeera, 12, SK, V, A, M
+26/04/2009, SK, veg, 29, SK, V, M
+26/04/2009, SK, milk, 11, SK, V
+26/04/2009, SK, sugarcane, 24, SK, V
+
+28/04/2009, M, chapati, 32, M, SK, V
+28/04/2009, V, eggs, 18, M, SK, V
+
+29/04/2009, V, chapati_dal, 71, M, SK, V
+29/04/2009, M, veg, 32, M, SK, V
+29/04/2009, V, milk, 22, SK, V
+
+29/04/2009, V, borrow, 2200, M, V
+29/04/2009, SK, borrow, 400, M, SK
+
+X, M, electricity_bill, 480
+
+X, M, mastani, 50, M, V
+X, M, sugarcane_juice, 26, M, V
+
+X, M, may_house_rent, 13250
+
+X, M, anil_march_remaining, 2464, M, A
+

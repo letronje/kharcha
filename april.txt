@@ -1,0 +1,357 @@
+
+Total Money Spent = 23585.5
+
+### DETAILS ###
+
+
+-- Vishal  should pay -- 
+
+	-- Anil --
+
+		40     for      "18/04/2009, A, dinner, 120, SK, A, V"
+		33     for      "25/04/09, A, lunch_prince, 98, A, SK, V"
+		30     for      "18/04/2009, A, dinner_chicken, 60, A, V"
+		25     for      "25/04/09, A, dk_prince_dinner, 100, A, M, SK, V"
+		10     for      "22/04/2009, A, dal, 30, A, V, SK"
+		10     for      "20/04/2009, A, dal, 30, A, V, SK"
+		8      for      "18/04/2009, A, lunch, 25, SK, A, V"
+
+		--------------------
+		Total = 156 
+		--------------------
+
+	-- Srikanth --
+
+		54     for      "05/04/2009, SK, dk_lunch, 163, M, SK, V"
+		37     for      "26/04/2009, SK, dinner, 74, SK, V"
+		33     for      "18/04/2009, SK, lunch, 100, SK, A, V"
+		25     for      "05/04/2009, SK, mastani, 75, M, V, SK"
+		24     for      "25/04/09, SK, mastani, 95, A, M, SK, V"
+		23     for      "13/04/2009, SK, mastani, 68, M, V, SK"
+		22     for      "05/04/2009, SK, mastani_dinner, 66, M, V, SK"
+		12     for      "26/04/2009, SK, sugarcane, 24, SK, V"
+		10     for      "26/04/2009, SK, veg, 29, SK, V, M"
+		9      for      "18/04/2009, SK, tea, 26, SK, A, V"
+		8      for      "14/04/2009, SK, veg, 32, M, V, SK, A"
+		8      for      "26/04/2009, SK, rice, 32, SK, V, A, M"
+		8      for      "25/04/09, SK, dk_prince_dinner, 30, A, M, SK, V"
+		7      for      "05/04/2009, SK, sugarcane_juice, 14, V, SK"
+		6      for      "26/04/2009, SK, eggs, 18, SK, V, M"
+		6      for      "26/04/2009, SK, milk, 11, SK, V"
+		3      for      "26/04/2009, SK, jeera, 12, SK, V, A, M"
+
+		--------------------
+		Total = 293 
+		--------------------
+
+	-- Manoj --
+
+		2650   for      "X, M, may_house_rent, 13250"
+		100    for      "X, M, internet_bill, 200, M, V"
+		96     for      "X, M, electricity_bill, 480"
+		26     for      "14/04/2009, M, fish, 78, M, V, A"
+		25     for      "15/04/2009, M, idlicious_curdrice, 100, M, V, A, S"
+		25     for      "X, M, mastani, 50, M, V"
+		20     for      "05/04/2009, M, idlicious_breakfast, 40, M, V"
+		13     for      "X, M, sugarcane_juice, 26, M, V"
+		11     for      "15/04/2009, M, milk, 22, M, V"
+		11     for      "16/04/2009, M, chapati, 44, M, V, A, SK"
+		11     for      "02/04/09, M, chapati, 32, M, A, V"
+		11     for      "29/04/2009, M, veg, 32, M, SK, V"
+		11     for      "28/04/2009, M, chapati, 32, M, SK, V"
+		10     for      "08/04/2009, M, chapati, 40, M, SK, A, V"
+		10     for      "21/04/2009, M, chapati, 40, M, V, SK, A"
+		9      for      "18/04/2009, M, sugar, 36, SK, A, V, M"
+		9      for      "21/04/2009, M, dal, 35, M, V, SK, A"
+		9      for      "06/04/2009, M, dal, 35, M, SK, A, V"
+		8      for      "08/04/2009, M, rice, 32, M, SK, A, V"
+		5      for      "16/04/2009, M, sugarcane_juice, 21, M, V, A, SK"
+		5      for      "06/04/2009, M, eggs, 18, M, SK, A, V"
+		5      for      "16/04/2009, M, eggs, 18, M, V, A, SK"
+		4      for      "01/04/09, M, veg, 14, M, V, A, SK"
+		3      for      "08/04/2009, M, veg, 10, M, V, A, SK"
+		1      for      "06/04/2009, M, veg, 5, M, SK, A, V"
+
+		--------------------
+		Total = 3085 
+		--------------------
+
+
+
+-- Anil  should pay -- 
+
+	-- Vishal --
+
+		76     for      "26/04/2009, V, maid_april, 380"
+		18     for      "25/04/09, V, paper_bill, 90"
+		13     for      "25/04/09, V, dk_prince_dinner, 50, A, M, SK, V"
+		11     for      "20/04/2009, V, chapati, 32, A, V, SK"
+		10     for      "14/04/2009, V, chapati, 40, M, V, SK, A"
+		10     for      "20/04/2009, V, rice, 38, A, V, SK, M"
+		9      for      "23/04/2009, V, chapati, 36, A, V, SK, M"
+		7      for      "25/04/09, V, water_bottle, 22, A, SK, V"
+		7      for      "18/04/2009, V, phenyl, 35"
+		5      for      "23/04/2009, V, veg, 20, A, V, SK, M"
+		5      for      "21/04/2009, V, eggs, 18, A, V, SK, M"
+		4      for      "18/04/2009, V, bathroom_scrubber, 20"
+		3      for      "16/04/2009, V, matki, 13, M, V, A, SK"
+
+		--------------------
+		Total = 177 
+		--------------------
+
+	-- Srikanth --
+
+		33     for      "18/04/2009, SK, lunch, 100, SK, A, V"
+		24     for      "25/04/09, SK, mastani, 95, A, M, SK, V"
+		9      for      "18/04/2009, SK, tea, 26, SK, A, V"
+		8      for      "26/04/2009, SK, rice, 32, SK, V, A, M"
+		8      for      "14/04/2009, SK, veg, 32, M, V, SK, A"
+		8      for      "25/04/09, SK, dk_prince_dinner, 30, A, M, SK, V"
+		3      for      "26/04/2009, SK, jeera, 12, SK, V, A, M"
+
+		--------------------
+		Total = 92 
+		--------------------
+
+	-- Manoj --
+
+		2650   for      "X, M, may_house_rent, 13250"
+		1232   for      "X, M, anil_march_remaining, 2464, M, A"
+		100    for      "X, M, internet_bill, 200, M, A"
+		96     for      "X, M, electricity_bill, 480"
+		26     for      "14/04/2009, M, fish, 78, M, V, A"
+		25     for      "15/04/2009, M, idlicious_curdrice, 100, M, V, A, S"
+		12     for      "17/04/2009, M, chapati, 36, M, A, SK"
+		11     for      "16/04/2009, M, chapati, 44, M, V, A, SK"
+		11     for      "02/04/09, M, chapati, 32, M, A, V"
+		10     for      "21/04/2009, M, chapati, 40, M, V, SK, A"
+		10     for      "08/04/2009, M, chapati, 40, M, SK, A, V"
+		9      for      "06/04/2009, M, chapati, 28, M, SK, A"
+		9      for      "18/04/2009, M, sugar, 36, SK, A, V, M"
+		9      for      "21/04/2009, M, dal, 35, M, V, SK, A"
+		9      for      "06/04/2009, M, dal, 35, M, SK, A, V"
+		8      for      "01/04/09, M, chapati, 16, M, A"
+		8      for      "08/04/2009, M, rice, 32, M, SK, A, V"
+		5      for      "16/04/2009, M, sugarcane_juice, 21, M, V, A, SK"
+		5      for      "06/04/2009, M, eggs, 18, M, SK, A, V"
+		5      for      "16/04/2009, M, eggs, 18, M, V, A, SK"
+		4      for      "01/04/09, M, veg, 14, M, V, A, SK"
+		3      for      "08/04/2009, M, veg, 10, M, V, A, SK"
+		1      for      "06/04/2009, M, veg, 5, M, SK, A, V"
+
+		--------------------
+		Total = 4256 
+		--------------------
+
+
+
+-- Srikanth  should pay -- 
+
+	-- Vishal --
+
+		76     for      "26/04/2009, V, maid_april, 380"
+		48     for      "18/04/2009, V, idlicious, 96, V, SK"
+		35     for      "18/04/2009, V, noodles_milk, 69.5, V, SK"
+		24     for      "29/04/2009, V, chapati_dal, 71, M, SK, V"
+		18     for      "25/04/09, V, paper_bill, 90"
+		13     for      "25/04/09, V, dk_prince_dinner, 50, A, M, SK, V"
+		11     for      "29/04/2009, V, milk, 22, SK, V"
+		11     for      "25/04/09, V, milk, 22, SK, V"
+		11     for      "21/04/2009, V, milk, 22, V, SK"
+		11     for      "13/04/2009, V, chapati, 32, M, V, SK"
+		11     for      "20/04/2009, V, chapati, 32, A, V, SK"
+		11     for      "01/04/09, V, chapati, 32, V, SK, M"
+		10     for      "14/04/2009, V, chapati, 40, M, V, SK, A"
+		10     for      "20/04/2009, V, rice, 38, A, V, SK, M"
+		9      for      "23/04/2009, V, chapati, 36, A, V, SK, M"
+		7      for      "25/04/09, V, water_bottle, 22, A, SK, V"
+		7      for      "18/04/2009, V, phenyl, 35"
+		6      for      "13/04/2009, V, eggs, 18, M, V, SK"
+		6      for      "28/04/2009, V, eggs, 18, M, SK, V"
+		5      for      "23/04/2009, V, veg, 20, A, V, SK, M"
+		5      for      "21/04/2009, V, eggs, 18, A, V, SK, M"
+		4      for      "18/04/2009, V, bathroom_scrubber, 20"
+		3      for      "16/04/2009, V, matki, 13, M, V, A, SK"
+
+		--------------------
+		Total = 350 
+		--------------------
+
+	-- Anil --
+
+		40     for      "18/04/2009, A, dinner, 120, SK, A, V"
+		33     for      "25/04/09, A, lunch_prince, 98, A, SK, V"
+		25     for      "25/04/09, A, dk_prince_dinner, 100, A, M, SK, V"
+		10     for      "22/04/2009, A, dal, 30, A, V, SK"
+		10     for      "20/04/2009, A, dal, 30, A, V, SK"
+		8      for      "18/04/2009, A, lunch, 25, SK, A, V"
+		3      for      "17/04/2009, A, veg, 8, M, A, SK"
+
+		--------------------
+		Total = 129 
+		--------------------
+
+	-- Manoj --
+
+		2650   for      "X, M, may_house_rent, 13250"
+		200    for      "X, M, internet_bill, 400, M, SK"
+		96     for      "X, M, electricity_bill, 480"
+		15     for      "18/04/2009, M, nimbooz, 30, SK, M"
+		12     for      "17/04/2009, M, chapati, 36, M, A, SK"
+		11     for      "16/04/2009, M, chapati, 44, M, V, A, SK"
+		11     for      "28/04/2009, M, chapati, 32, M, SK, V"
+		11     for      "29/04/2009, M, veg, 32, M, SK, V"
+		10     for      "21/04/2009, M, chapati, 40, M, V, SK, A"
+		10     for      "08/04/2009, M, chapati, 40, M, SK, A, V"
+		9      for      "06/04/2009, M, chapati, 28, M, SK, A"
+		9      for      "18/04/2009, M, sugar, 36, SK, A, V, M"
+		9      for      "21/04/2009, M, dal, 35, M, V, SK, A"
+		9      for      "06/04/2009, M, dal, 35, M, SK, A, V"
+		8      for      "08/04/2009, M, rice, 32, M, SK, A, V"
+		5      for      "16/04/2009, M, sugarcane_juice, 21, M, V, A, SK"
+		5      for      "16/04/2009, M, eggs, 18, M, V, A, SK"
+		5      for      "06/04/2009, M, eggs, 18, M, SK, A, V"
+		4      for      "01/04/09, M, veg, 14, M, V, A, SK"
+		3      for      "08/04/2009, M, veg, 10, M, V, A, SK"
+		1      for      "06/04/2009, M, veg, 5, M, SK, A, V"
+
+		--------------------
+		Total = 3091 
+		--------------------
+
+
+
+-- Manoj  should pay -- 
+
+	-- Vishal --
+
+		1100   for      "29/04/2009, V, borrow, 2200, M, V"
+		76     for      "26/04/2009, V, maid_april, 380"
+		63     for      "18/04/2009, V, idlicious, 126, V, M"
+		24     for      "29/04/2009, V, chapati_dal, 71, M, SK, V"
+		18     for      "25/04/09, V, paper_bill, 90"
+		13     for      "25/04/09, V, dk_prince_dinner, 50, A, M, SK, V"
+		11     for      "13/04/2009, V, chapati, 32, M, V, SK"
+		11     for      "01/04/09, V, chapati, 32, V, SK, M"
+		10     for      "14/04/2009, V, chapati, 40, M, V, SK, A"
+		10     for      "20/04/2009, V, rice, 38, A, V, SK, M"
+		9      for      "23/04/2009, V, chapati, 36, A, V, SK, M"
+		7      for      "18/04/2009, V, phenyl, 35"
+		6      for      "13/04/2009, V, eggs, 18, M, V, SK"
+		6      for      "28/04/2009, V, eggs, 18, M, SK, V"
+		5      for      "23/04/2009, V, veg, 20, A, V, SK, M"
+		5      for      "21/04/2009, V, eggs, 18, A, V, SK, M"
+		4      for      "06/04/2009, V, chapati, 8, M, V"
+		4      for      "18/04/2009, V, bathroom_scrubber, 20"
+		3      for      "16/04/2009, V, matki, 13, M, V, A, SK"
+
+		--------------------
+		Total = 1383 
+		--------------------
+
+	-- Anil --
+
+		57     for      "17/04/2009, A, fish, 113, M, A"
+		30     for      "02/04/09, A, chicken, 60, M, A"
+		25     for      "25/04/09, A, dk_prince_dinner, 100, A, M, SK, V"
+		3      for      "17/04/2009, A, veg, 8, M, A, SK"
+
+		--------------------
+		Total = 114 
+		--------------------
+
+	-- Srikanth --
+
+		200    for      "29/04/2009, SK, borrow, 400, M, SK"
+		54     for      "05/04/2009, SK, dk_lunch, 163, M, SK, V"
+		25     for      "18/04/2009, SK, mastani, 50, SK, M"
+		25     for      "05/04/2009, SK, mastani, 75, M, V, SK"
+		24     for      "25/04/09, SK, mastani, 95, A, M, SK, V"
+		23     for      "13/04/2009, SK, mastani, 68, M, V, SK"
+		22     for      "05/04/2009, SK, mastani_dinner, 66, M, V, SK"
+		14     for      "05/04/2009, SK, sugarcane_juice, 28, M, SK"
+		10     for      "26/04/2009, SK, veg, 29, SK, V, M"
+		8      for      "26/04/2009, SK, rice, 32, SK, V, A, M"
+		8      for      "14/04/2009, SK, veg, 32, M, V, SK, A"
+		8      for      "25/04/09, SK, dk_prince_dinner, 30, A, M, SK, V"
+		6      for      "26/04/2009, SK, eggs, 18, SK, V, M"
+		3      for      "26/04/2009, SK, jeera, 12, SK, V, A, M"
+
+		--------------------
+		Total = 429 
+		--------------------
+
+
+
+-- Sanjay  should pay -- 
+
+	-- Vishal --
+
+		76     for      "26/04/2009, V, maid_april, 380"
+		18     for      "25/04/09, V, paper_bill, 90"
+		7      for      "18/04/2009, V, phenyl, 35"
+		4      for      "18/04/2009, V, bathroom_scrubber, 20"
+
+		--------------------
+		Total = 105 
+		--------------------
+
+	-- Manoj --
+
+		2650   for      "X, M, may_house_rent, 13250"
+		100    for      "X, M, internet_bill, 200, M, S"
+		96     for      "X, M, electricity_bill, 480"
+		25     for      "15/04/2009, M, idlicious_curdrice, 100, M, V, A, S"
+
+		--------------------
+		Total = 2871 
+		--------------------
+
+
+
+ ## SUMMARY ##  
+
+
+Vishal has already spent 3530.5
+Vishal should pay ... 
+	1702 to Manoj
+	------------------------------
+	total = 1702
+	------------------------------ 
+
+
+Anil has already spent 644.0
+Anil should pay ... 
+	21 to Vishal
+	4142 to Manoj
+	------------------------------
+	total = 4163
+	------------------------------ 
+
+
+Srikanth has already spent 1347.0
+Srikanth should pay ... 
+	36 to Anil
+	2662 to Manoj
+	56 to Vishal
+	------------------------------
+	total = 2754
+	------------------------------ 
+
+
+Manoj has already spent 18064.0
+	Manoj need not pay anybody
+
+
+Sanjay has already spent 0.0
+Sanjay should pay ... 
+	2871 to Manoj
+	105 to Vishal
+	------------------------------
+	total = 2976
+	------------------------------ 
+
+Vishal should receive 181.833333333333
+Anil should receive 36.4166666666667
+Manoj should receive 11376.8333333333
